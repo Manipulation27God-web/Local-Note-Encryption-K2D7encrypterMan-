@@ -1,0 +1,2 @@
+# Local-Note-Encryption-K2D7encrypterMan-
+A standalone text editor workspace leveraging authenticated AES-256-GCM encryption engines to lock down local text files. Includes automatic inactivity locking timers, dark/light visual modes, and built-in directory sidebar parsing. Has zero bloat-ware and is built for WINDOWS users only. PROTOTYPE.  Designed and developed by Dhruv Karanji.
